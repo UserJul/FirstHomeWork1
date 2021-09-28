@@ -1,0 +1,16 @@
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\bin\Debug\net5.0\FirstHomeWork1.exe
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\bin\Debug\net5.0\FirstHomeWork1.deps.json
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\bin\Debug\net5.0\FirstHomeWork1.runtimeconfig.json
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\bin\Debug\net5.0\FirstHomeWork1.runtimeconfig.dev.json
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\bin\Debug\net5.0\FirstHomeWork1.dll
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\bin\Debug\net5.0\ref\FirstHomeWork1.dll
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\bin\Debug\net5.0\FirstHomeWork1.pdb
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\obj\Debug\net5.0\FirstHomeWork1.csproj.AssemblyReference.cache
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\obj\Debug\net5.0\FirstHomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\obj\Debug\net5.0\FirstHomeWork1.AssemblyInfoInputs.cache
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\obj\Debug\net5.0\FirstHomeWork1.AssemblyInfo.cs
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\obj\Debug\net5.0\FirstHomeWork1.csproj.CoreCompileInputs.cache
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\obj\Debug\net5.0\FirstHomeWork1.dll
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\obj\Debug\net5.0\ref\FirstHomeWork1.dll
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\obj\Debug\net5.0\FirstHomeWork1.pdb
+C:\Users\checove\source\repos\FirstHomeWork1\FirstHomeWork1\obj\Debug\net5.0\FirstHomeWork1.genruntimeconfig.cache

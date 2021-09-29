@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FirstHomeWork1
 {
-    class Class1
+    class Сycles1
     {
     }
 }

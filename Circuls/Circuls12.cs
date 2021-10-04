@@ -10,22 +10,49 @@ namespace Circuls
     {
         static void CirculTvelv(string[] args)
         {
-            Console.WriteLine("Введите число А");
-            int a = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите число B");
-            int b = Convert.ToInt32(Console.ReadLine());
-            while (a > 0)
-            {
-                while (b > 0)
-                { 
-                    if(a % 10 == b % 10)
-                    {
-                        Console.WriteLine("Yes");
-                    }
-                    Console.WriteLine("No");
-                }
+            Console.WriteLine("Введите число 1");
+            int first = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Введите число 2");
+            int second = Convert.ToInt32(Console.ReadLine());
 
+            int tmp1 = Math.Abs(first);
+            int tmp2 = Math.Abs(second);
+            int srav = 0;
+            int i = 0;
+            int j = 0;
+            if (first != 0 || second != 0)
+            {
+                while (tmp1 > 0)
+                {
+                    i = tmp1 % 10;
+                    tmp1 = tmp1 / 10;
+                    while (tmp2 > 0)
+                    {
+                        j = tmp2 % 10;
+                        tmp2 = tmp2 / 10;
+                        if (i == j)
+                        {
+                            srav++;
+
+                        }
+
+                    }
+                    tmp2 = second;
+                }
+                if (srav != 0)
+                {
+                    Console.WriteLine("yes");
+                }
+                else
+                {
+                    Console.WriteLine("no");
+                }
             }
+            else
+            {
+                Console.WriteLine("Введеные числа равны 0");
+            }
+
         }
     }
 }

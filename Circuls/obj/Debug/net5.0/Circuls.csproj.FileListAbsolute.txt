@@ -1,0 +1,16 @@
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\bin\Debug\net5.0\Circuls.exe
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\bin\Debug\net5.0\Circuls.deps.json
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\bin\Debug\net5.0\Circuls.runtimeconfig.json
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\bin\Debug\net5.0\Circuls.runtimeconfig.dev.json
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\bin\Debug\net5.0\Circuls.dll
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\bin\Debug\net5.0\ref\Circuls.dll
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\bin\Debug\net5.0\Circuls.pdb
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\obj\Debug\net5.0\Circuls.csproj.AssemblyReference.cache
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\obj\Debug\net5.0\Circuls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\obj\Debug\net5.0\Circuls.AssemblyInfoInputs.cache
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\obj\Debug\net5.0\Circuls.AssemblyInfo.cs
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\obj\Debug\net5.0\Circuls.csproj.CoreCompileInputs.cache
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\obj\Debug\net5.0\Circuls.dll
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\obj\Debug\net5.0\ref\Circuls.dll
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\obj\Debug\net5.0\Circuls.pdb
+C:\Users\checove\source\repos\FirstHomeWork1\Circuls\obj\Debug\net5.0\Circuls.genruntimeconfig.cache

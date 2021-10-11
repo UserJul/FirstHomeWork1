@@ -1,0 +1,16 @@
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\bin\Debug\net5.0\DoubleArrays.exe
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\bin\Debug\net5.0\DoubleArrays.deps.json
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\bin\Debug\net5.0\DoubleArrays.runtimeconfig.json
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\bin\Debug\net5.0\DoubleArrays.runtimeconfig.dev.json
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\bin\Debug\net5.0\DoubleArrays.dll
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\bin\Debug\net5.0\ref\DoubleArrays.dll
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\bin\Debug\net5.0\DoubleArrays.pdb
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\obj\Debug\net5.0\DoubleArrays.csproj.AssemblyReference.cache
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\obj\Debug\net5.0\DoubleArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\obj\Debug\net5.0\DoubleArrays.AssemblyInfoInputs.cache
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\obj\Debug\net5.0\DoubleArrays.AssemblyInfo.cs
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\obj\Debug\net5.0\DoubleArrays.csproj.CoreCompileInputs.cache
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\obj\Debug\net5.0\DoubleArrays.dll
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\obj\Debug\net5.0\ref\DoubleArrays.dll
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\obj\Debug\net5.0\DoubleArrays.pdb
+C:\Users\checove\source\repos\FirstHomeWork1\DoubleArrays\obj\Debug\net5.0\DoubleArrays.genruntimeconfig.cache

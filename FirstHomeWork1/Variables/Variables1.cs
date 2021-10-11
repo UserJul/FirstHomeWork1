@@ -17,5 +17,6 @@ namespace FirstHomeWork1
             Console.WriteLine(c);
             Console.WriteLine(" ");
 
+        }
     }
 }
